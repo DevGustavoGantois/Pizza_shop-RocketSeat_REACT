@@ -1,3 +1,5 @@
+<a href="https://pizza-shop-rocket-seat-react.vercel.app/">Clique aqui para acessar o projeto</a>
+
 <h1>Pizza Shop | Front End</h1>
 
 <p>Este projeto foi desenvolvido com as seguintes tecnologias.</p>
@@ -19,6 +21,8 @@
 
 
 <h1>EN</h1>
+
+<a href="https://pizza-shop-rocket-seat-react.vercel.app/">Click here for access this project</a>
 
 <p>This project was developed with the following technologies.</p>
 
